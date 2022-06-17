@@ -1,0 +1,40 @@
+id: IE660B467
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:40:28.033939'
+last_modified: '2022-06-17T13:40:28.033945'
+parser: null
+source_metadata:
+  title: Prophecy Series
+  language: bo
+  description: 'A selection of texts on the theme of prophecy or predictions (Skt.
+    vyākaraṇa; Tib. lung bstan):'
+  volume:
+    fF264:
+      title: Advice to Jigme Tenpe Nyima
+      base_file: fF264.txt
+      order: 1
+      parent: Advice
+    f9A66:
+      title: The Guidebook to the Hidden Land of Pemokö
+      base_file: f9A66.txt
+      order: 2
+      parent: Terma
+    fAB60:
+      title: 'Liberation Upon Hearing: The History of the Great Jarung Kashor Stūpa'
+      base_file: fAB60.txt
+      order: 3
+      parent: Terma
+    f20D4:
+      title: 'The Clarifying Light: A Prophecy of the Future'
+      base_file: f20D4.txt
+      order: 4
+      parent: Words of the Buddha
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
